@@ -4,7 +4,7 @@ from datetime import datetime as dt
 import os
 
 
-sender = 'rayenamer@aiesec.net'
+sender = ''
 receiver = 'vopugyvusif3@mimimail.me'
 
 subject = 'This is the subject'

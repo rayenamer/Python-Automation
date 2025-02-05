@@ -4,7 +4,7 @@ from datetime import datetime as dt
 import os
 import pandas  as pd
 
-sender = 'rayenamer@aiesec.net'
+sender = ''
 
 subject = 'This is the subject'
 

@@ -1,6 +1,6 @@
 import yagmail
 
-sender = 'rayenamer@aiesec.net'
+sender = ''
 receiver = 'vopugyvusif3@mimimail.me'
 
 subject = 'This is the subject'
