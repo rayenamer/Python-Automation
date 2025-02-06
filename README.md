@@ -51,8 +51,6 @@ python script_name.py
 
 Feel free to modify configurations as needed in each script.
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit pull requests or open issues for improvements.
