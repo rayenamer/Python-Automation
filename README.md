@@ -2,9 +2,9 @@ Python Automation Foundations
 
 This repository contains various Python scripts and modules for automating tasks related to emails, file management, web scraping, and APIs.
 
-Project Structure
+📂 Project Structure
 
-1. Automating Emails
+📧 Automating Emails
 
 Scripts for sending emails individually or in bulk.
 
@@ -16,7 +16,7 @@ SendSingleEmail.py - Sends an email to a single recipient.
 
 contact.csv - CSV file containing recipient email addresses.
 
-2. Folders Management
+📁 Folders Management
 
 Scripts for handling files and directories.
 
@@ -30,7 +30,7 @@ UnzipFiles.py - Extracts files from ZIP archives.
 
 ZipFilesCreation.py - Compresses files into a ZIP archive.
 
-3. Web Scraping & APIs
+🌐 Web Scraping & APIs
 
 Scripts for interacting with web pages and APIs.
 
@@ -54,13 +54,13 @@ data.txt - Sample data file.
 
 probability_density_plot.py - Generates probability density plots.
 
-Requirements
+⚙️ Requirements
 
 Ensure you have Python installed and install dependencies with:
 
 pip install -r requirements.txt
 
-Usage
+🚀 Usage
 
 Run scripts from the command line:
 
@@ -68,15 +68,14 @@ python script_name.py
 
 Modify configurations as needed in each script.
 
-License
+📜 License
 
 This project is licensed under the MIT License.
 
-Contributing
+🤝 Contributing
 
 Feel free to submit pull requests or open issues for improvements.
 
-Author
+👤 Author
 
-Rayen Ameur
-
+[Your Name]
