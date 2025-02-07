@@ -5,9 +5,10 @@ receiver = 'vopugyvusif3@mimimail.me'
 
 subject = 'This is the subject'
 
-content = """
-i closed the stmp connection manually without the help of chatgbt :D
-"""
+contents = ["""
+Here is the content of the email! 
+Hi!
+""", 'text.txt']
 
 password = input("gimmi dat password baby ->")
 
@@ -15,7 +16,7 @@ password = input("gimmi dat password baby ->")
 yag = yagmail.SMTP(user=sender, password=password)
 
 # Send the email
-yag.send(to=receiver, subject=subject, contents=content)
+yag.send(to=receiver, subject=subject, contents=contents)
 
 # Print confirmation
 print("email sent!")
